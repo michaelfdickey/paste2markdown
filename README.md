@@ -36,3 +36,7 @@ paste2markdown/
 ├── launcher.py      # Python launcher for local-hoster
 └── README.md
 ```
+
+## 
+
+![screencap](https://raw.githubusercontent.com/michaelfdickey/paste2markdown/refs/heads/main/screencap.png?token=GHSAT0AAAAAADGG6NUVKZSARSQT5JNUFW5G2P5BVRQ)
