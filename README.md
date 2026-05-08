@@ -39,4 +39,4 @@ paste2markdown/
 
 ## 
 
-![screencap](https://raw.githubusercontent.com/michaelfdickey/paste2markdown/refs/heads/main/screencap.png?token=GHSAT0AAAAAADGG6NUVKZSARSQT5JNUFW5G2P5BVRQ)
+![screencap](./screencap.png)
